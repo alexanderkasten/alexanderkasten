@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=alexanderkasten)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **alexanderkasten/alexanderkasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
