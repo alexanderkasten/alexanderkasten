@@ -1,7 +1,6 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=alexanderkasten&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=alexanderkasten)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-tau-one-38.vercel.app/api/top-langs/?username=alexanderkasten&layout=compact)
 
 <!--
 **alexanderkasten/alexanderkasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
