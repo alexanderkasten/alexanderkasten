@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats-tau-one-38.vercel.app/api/top-langs/?username=alexanderkasten&layout=compact)
 
+[![Image of gpvc](https://github.com/alexanderkasten/gpvc/blob/master/svg/692100595/badge.svg)](https://github.com/alexanderkasten/gpvc/blob/master/readme/692100595/week.md)
+
 <!--
 **alexanderkasten/alexanderkasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
