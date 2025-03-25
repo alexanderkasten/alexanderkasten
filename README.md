@@ -16,8 +16,9 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=alexanderkasten&icon=4&color=1)](https://visitcount.itsvg.in)
-[![Image of gpvc](https://github.com/alexanderkasten/gpvc/blob/master/svg/692100595/badge.svg)](https://github.com/alexanderkasten/gpvc/blob/master/readme/692100595/week.md)
+[![](https://vc.kasten.cloud/api/counter/alexanderkasten_gh?label=profile%20views&color=blue)](https://vc.kasten.cloud)
+
+<!--[![Image of gpvc](https://github.com/alexanderkasten/gpvc/blob/master/svg/692100595/badge.svg)](https://github.com/alexanderkasten/gpvc/blob/master/readme/692100595/week.md)-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
