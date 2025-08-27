@@ -7,8 +7,9 @@
 
 ![Top Langs](https://github-readme-stats-tau-one-38.vercel.app/api/top-langs/?username=alexanderkasten&include_all_commits=true&theme=transparent&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alexanderkasten&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-one-sage.vercel.app/?username=alexanderkasten&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 💻 Tech Stack:
