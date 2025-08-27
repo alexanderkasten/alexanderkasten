@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=alexanderkasten&theme=transparent&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexanderkasten&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-streak-stats-liart-two.vercel.app/?user=alexanderkasten&theme=transparent&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats-tau-one-38.vercel.app/api/top-langs/?username=alexanderkasten&include_all_commits=true&theme=transparent&count_private=true&layout=compact)
 
